@@ -1,0 +1,6 @@
+Experiment,Hidden Layers,Neurons,Learning Rate,Batch Size,Activation,Val Accuracy,Test Accuracy
+Baseline,2,64,0.001,32,relu,0.9937,0.985
+More Neurons,2,128,0.001,32,relu,0.9937,0.9825
+Deep Network,4,64,0.001,32,relu,0.9937,0.9825
+Low LR,2,64,0.0001,32,relu,0.9937,0.985
+Tanh Activation,2,64,0.001,32,tanh,0.9937,0.985
